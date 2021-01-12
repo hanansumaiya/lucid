@@ -1,0 +1,417 @@
+@media (max-width: 1399px) {
+	
+
+}
+
+/*<!-- /////////////// -->*/
+
+@media (max-width: 1199px) {
+	.header .header-content h1 {
+		color: #ffffff;
+		font-size: 38px;
+		font-weight: 600;
+		line-height: 43px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		padding-right: 100px;
+	}
+	.header .header-content p {
+		color: #8e8e8e;
+		font-size: 12px;
+		padding-right: 138px;
+		line-height: 20px;
+
+	}
+	.header .header-img img {
+		width: 350px;
+		height: 370px;
+	}
+	/*//////////////*/
+	.button .button-right button {
+		text-decoration: none;
+		color: #fff;
+		background-color: transparent;
+		border: 2px solid #444348;
+		border-radius: 2px;
+		font-size: 10px;
+		font-weight: 600;
+		text-transform: uppercase;
+		padding: 10px 20px;
+		margin-left: 10px;
+	}
+
+
+}
+
+
+/*<!-- /////////////// -->*/
+
+@media (max-width: 991px) {
+	.header .header-content h1 {
+		color: #ffffff;
+		font-size: 30px;
+		font-weight: 600;
+		line-height: 40px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		padding-right: 0px;
+	}
+	.header .header-content p {
+		color: #8e8e8e;
+		font-size: 12px;
+		padding-right: 0px;
+		line-height: 20px;
+
+	}
+	.header .header-img img {
+		width: 320px;
+		height: 350px;
+	}
+	.header .header-content button {
+		color: #fff;
+		background-color: #008ed6;
+		border: 1px solid transparent;
+		border-radius: 2px;
+		font-size: 10px;
+		font-weight: 600;
+		padding: 10px 12px;
+		margin-right: 10px;
+		margin-top: 20px;
+		transition: all ease 0.3s;
+	}
+	/*//////////////*/
+	.features p {
+		font-size: 14px;
+		font-weight: 600;
+		color: #999999;
+		margin-bottom: 30px;
+	}
+	/*//////////////*/
+
+	.beautiful .beauty-img img {
+		width: 300px;
+		margin: auto;
+		display: block;
+	}
+	.beautiful .beauty-right {
+		padding-top: 0px;
+	}
+	.beautiful .beauty-right h2 {
+		font-size: 25px;
+		color: #000;
+		font-weight: 600;
+	}
+	.beautiful .beauty-right p {
+		font-size: 13px;
+		font-weight: 600;
+		color: #999999;
+		margin-bottom: 15px;
+		margin-top: 15px;
+		padding-right: 0px;
+	}
+	/*//////////////*/
+
+	.super .super-left {
+		padding-top: 30px;
+	}
+	.super .super-right img {
+		width: 400px;
+		margin: auto;
+		display: block;
+	}
+	.super .super-left h2 {
+		font-size: 23px;
+		color: #000;
+		font-weight: 600;
+	}
+	.super .super-left p {
+		font-size: 13px;
+		font-weight: 600;
+		color: #999999;
+		margin-top: 25px;
+	}
+	/*//////////////*/
+	.client .carousel-inner .slide-area p {
+		font-size: 16px;
+		color: #d7d7d7;
+		font-style: italic;
+		padding-right: 30px;
+		margin-bottom: 20px;
+		line-height: 22px;
+		text-align: center;
+	}
+	.client .carousel-inner .slide-area .slide-box {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	/*//////////////*/
+	.button {
+		background-color: #15141a;
+		padding: 30px 0px;
+	}
+	.button .button-left {
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	.button .button-right {
+		display: flex;
+		justify-content: center;
+	} 
+	/*//////////////*/
+
+	.plan .plan-area {
+		display: flex;
+		justify-content: center;
+	}
+	.plan .card {
+		margin-bottom: 20px;
+	}
+	/*//////////////*/
+
+
+	.contact .contact-form .contact-form-bottom .submit button{
+		font-size: 12px;
+		font-weight: 700;
+		color: #bbb;
+		background-color: transparent;
+		border-radius: 3px;
+		padding: 12px 20px;
+		border: 1px solid #444348;
+	}
+
+}
+
+/*<!-- /////////////// -->*/
+
+@media all and (max-width: 767px) {
+	.header .header-content {
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+	.header .header-img {
+		padding-top: 20px;
+		text-align: center;
+	}
+	/*//////////////*/
+	.beautiful {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	/*//////////////*/
+	.super {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.super .super-left h2 {
+		font-size: 25px;
+		color: #000;
+		font-weight: 600;
+	}
+	.super .super-left {
+		padding-top: 0px;
+	}
+	/*//////////////*/
+
+	.client .carousel-inner .slide-area {
+
+		padding: 0px 50px;
+		margin-bottom: 40px;
+	}
+	/*//////////////*/
+	.button .button-left h2 {
+		font-size: 22px;
+		color: #b5b5b5;
+		margin-bottom: 0px;
+	}
+	/*//////////////*/
+
+
+	.footer .foot-area {
+		width: 100%;
+		margin: auto;
+		text-align: center;
+	}
+
+	
+
+
+
+
+}
+
+/*<!-- /////////////// -->*/
+
+@media (max-width: 575px) {
+
+	.header .header-img img {
+		width: 300px;
+		height: 340px;
+	}
+	/*//////////////*/
+	.features .icon-img {
+		width: 70px;
+		height: 70px;
+		border-radius: 50%;
+		position: relative;
+		border: 1px solid #d0cdcded;
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	.features p {
+		font-size: 14px;
+		font-weight: 600;
+		color: #999999;
+		margin-bottom: 30px;
+		padding: 0px 50px;
+	}
+	/*//////////////*/
+	.beautiful .beauty-right {
+		padding-top: 0px;
+		text-align: center;
+	}
+	.beautiful .beauty-right ul {
+		list-style: none;
+		width: 50%;
+		margin: auto;
+		text-align: left;
+	}
+	/*//////////////*/
+	.super .super-left {
+		padding-top: 0px;
+		text-align: center;
+	}
+	/*//////////////*/
+
+	.plan .card{
+		width: 55%;
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	.plan .card .card-body h3 {
+		color: #008ed6;
+	}
+	.plan .card .card-body .dollar {
+		background-color: #008ed6;
+		color: #fff;
+	}
+	.plan .card .card-body .dollar h4 {
+		color: #eee;
+	}
+	.plan .card .card-body button {
+		background-color: #008ed6;
+		color: #ffffff;
+		border: 1px solid transparent;
+	}
+	/*//////////////*/
+
+	.contact .contact-top .phone {
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	.contact .contact-top .phone .image {
+		height: 38px;
+	}
+	.contact .contact-top .phone .image img {
+		width: 18px;
+		margin-bottom: 0px;
+	}
+	.contact .contact-form {
+		background-color: #15141a;
+		padding : 40px 40px;
+		position: absolute;
+		top: 455px;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.contact .contact-top {
+		background-color: #ededed;
+		padding-top: 40px;
+		padding-bottom: 300px;
+	}
+	.contact .contact-form .left input {
+		border: 1px solid #444348;
+		padding: 9px 12px;
+		font-size: 12px;
+		box-sizing: border-box;
+		border-radius: 3px;
+		width: 80%;
+		background-color: transparent;
+		color: #bbb;
+		font-weight: 700;
+		display: block;
+		margin: auto;
+		margin-bottom: 12px;
+	}
+	.contact .contact-form .right textarea {
+		width: 80%;
+		height: 100%;
+		font-size: 12px;
+		border-radius: 3px;
+		border: 1px solid #444348;
+		padding: 9px 12px;
+		background-color: transparent;
+		color: #bbb;
+		font-weight: 700;
+		display: block;
+		margin: auto;
+	}
+	.contact .contact-form .contact-form-bottom .submit {
+		display: flex;
+		justify-content: center;
+	}
+	.contact .contact-form .contact-form-bottom .submit button{
+		font-size: 14px;
+		font-weight: 700;
+		color: #bbb;
+		background-color: transparent;
+		border-radius: 3px;
+		padding: 12px 25px;
+		border: 1px solid #444348;
+		margin-top: 15px;
+	}
+	
+
+	
+}
+
+
+/*<!-- /////////////// -->*/ 
+
+@media (max-width: 475px) {
+
+	.beautiful .beauty-right ul {
+		list-style: none;
+		width: 60%;
+		margin: auto;
+		text-align: left;
+	}
+	/*//////////////*/
+
+
+	.plan .card{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+}
+
+/*<!-- /////////////// -->*/ 
+@media (max-width: 414px) {
+
+	.super .super-right img {
+		width: 340px;
+		margin: auto;
+		display: block;
+	}
+
+}
+
+/*<!-- /////////////// -->*/ 
+@media (max-width: 375px) {
+
+
+}
+
